@@ -21,18 +21,18 @@ Here is how I am approaching DSA:
 8. Sliding Window
 9. Recursion
 10. Stacks
-11. Linked Lists      --> I AM HERE NOW!!!
+11. Linked Lists
+12. Trees      --> I AM HERE NOW!!!
 
 Planned, don't know if it will remain the same
 1. Queues
 2. Backtracking
-3. Trees
-4. Heaps/ Priority Queues
-5. 1D DP
-6. 2D DP
-7. Graphs
-8. Greedy
-9. FINAL BOSSES
+3. Heaps/ Priority Queues
+4. 1D DP
+5. 2D DP
+6. Graphs
+7. Greedy
+8. FINAL BOSSES
 
 Cheers,
 
