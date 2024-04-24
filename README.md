@@ -41,7 +41,7 @@ Your Struggling COder;
 ## **BIT MANIPULATION**
 
 <details>
- <summary>Bit Manipulation</summary>
+ <summary>Bit Manipulation: The first/last step</summary>
  
 Bit Manipulation surely isn't the first thing that comes to people's mind when they want to start there DSA journey (and I did agree to it till a long time), but I have come to realise if done first, it builds in a practice to code in the most optimized way in the long run. Since bit manipulation works closest to the machine, it speeds up the algorithms significantly faster.
 
