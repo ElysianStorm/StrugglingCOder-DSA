@@ -38,7 +38,7 @@ Cheers,
 
 Your Struggling COder;
 
-### **BIT MANIPULATION**
+## **BIT MANIPULATION**
 Bit Manipulation surely isn't the first thing that comes to people's mind when they want to start there DSA journey (and I did agree to it till a long time), but I have come to realise if done first, it builds in a practice to code in the most optimized way in the long run. Since bit manipulation works closest to the machine, it speeds up the algorithms significantly faster.
 
 In my experience bit manipulation has opened for me avenues in places where dumber me would have never thought to use it (binary search, powers of twos, masking, simple loops and much more). So, without any further ado, lets dig in what we need to learn in bit manipulation before we head to the questions (This is sort of classwork before doing homework, yeah poor example but its true).
