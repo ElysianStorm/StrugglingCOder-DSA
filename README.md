@@ -11,28 +11,28 @@ I admit I am not the best, nor the fastest, nor even the brightest of coders out
 In this journal, I will keep posting solved approaches for questions in leetcode, interviewbit, geeksforgeeks (anywhere where that question shows up) along with the links to the solutions in which I explain my understanding of the question as someone who accepts DSA is not fun. However its not a random series of questions. The goal is to be-friend these imaginary monsters, so I will be systematic in my approach.
 
 Here is how I am approaching DSA:
-1. [Bit Manipulation](#BIT-MANIPULATION?open=1)
-2. Maths
-3. Arrays
-4. Strings
-5. HashMaps
-6. Two Pointers
-7. Binary Search
-8. Sliding Window
-9. Recursion
-10. Stacks
-11. Linked Lists
-12. Trees      --> I AM HERE NOW!!!
+- [Bit Manipulation](#BIT-MANIPULATION)
+- Maths
+- Arrays
+- Strings
+- HashMaps
+- Two Pointers
+- Binary Search
+- Sliding Window
+- Recursion
+- Stacks
+- Linked Lists
+- Trees      --> I AM HERE NOW!!!
 
 Planned, don't know if it will remain the same
-1. Queues
-2. Backtracking
-3. Heaps/ Priority Queues
-4. 1D DP
-5. 2D DP
-6. Graphs
-7. Greedy
-8. FINAL BOSSES
+- Queues
+- Backtracking
+- Heaps/ Priority Queues
+- 1D DP
+- 2D DP
+- Graphs
+- Greedy
+- FINAL BOSSES
 
 Cheers,
 
@@ -41,6 +41,8 @@ Your Struggling COder;
 ## **BIT MANIPULATION**
 
 <details>
+ <summary>Bit Manipulation</summary>
+ 
 Bit Manipulation surely isn't the first thing that comes to people's mind when they want to start there DSA journey (and I did agree to it till a long time), but I have come to realise if done first, it builds in a practice to code in the most optimized way in the long run. Since bit manipulation works closest to the machine, it speeds up the algorithms significantly faster.
 
 In my experience bit manipulation has opened for me avenues in places where dumber me would have never thought to use it (binary search, powers of twos, masking, simple loops and much more). So, without any further ado, lets dig in what we need to learn in bit manipulation before we head to the questions (This is sort of classwork before doing homework, yeah poor example but its true).
