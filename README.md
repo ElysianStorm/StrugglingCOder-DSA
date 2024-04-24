@@ -56,7 +56,7 @@ In my experience bit manipulation has opened for me avenues in places where dumb
 11. Find number of bits to convert number A to number B
 
 These questions set us up for bit manipulation, with these questions we know mostly how to deal with bits (mostly cause some questions are designed to fail your logic). Now we can dive in the depths of our homework.
-A sweet search in CHAT-GPT gives this roadmap for bit manipulation along with some practice questions from leetcode:
+A sweet search in CHAT-GPT gives this roadmap for bit manipulation along with some practice questions (yeah, I rely on chat-gpt):
 
 Roadmap to Learning Bit Manipulation:
 
