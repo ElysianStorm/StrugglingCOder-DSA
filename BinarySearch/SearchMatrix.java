@@ -1,4 +1,11 @@
 package BinarySearch;
+// https://leetcode.com/problems/search-a-2d-matrix/solutions/4975914/search-a-2d-matrix-java-approach-o-log-n-m-time-o-1-space-explanation/
+
+// Medium
+// 2D Arrays
+// Binary Search
+// T:O(N*M), S:O(1)
+// BS on row/col, BS on elem within last row/col
 
 class SearchMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
