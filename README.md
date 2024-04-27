@@ -72,7 +72,7 @@ Roadmap to Learning Bit Manipulation:
 2. Bitwise Operations
    - AND, OR, XOR, NOT
    - Application in Setting/Clearing Bits
-   - LeetCode: [Single Number](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/BitManipulation/SingleNumber.java), [Single Number II](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/BitManipulation/SingleNumber2).java
+   - LeetCode: [Single Number](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/BitManipulation/SingleNumber.java), [Single Number II](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/BitManipulation/SingleNumber2.java)
 
 3. Shift Techniques
    - Left Shift (<<), Right Shift (>>)
