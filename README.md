@@ -13,7 +13,7 @@ In this journal, I will keep posting solved approaches for questions in leetcode
 Here is how I am approaching DSA:
 - [Bit Manipulation](#BIT-MANIPULATION)
 - Maths
-- Arrays
+- [Arrays](#ARRAYS)
 - Strings
 - HashMaps
 - Two Pointers
@@ -93,4 +93,38 @@ Roadmap to Learning Bit Manipulation:
    - Optimizing Algorithms with Bit Manipulation
    - Bitwise XOR Properties
    - InterviewBit: [Min XOR Value](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/BitManipulation/MinXorValue.java)
+</details>
+
+## **ARRAYS**
+
+<details>
+ <summary>Arrays: The core of programming</summary>
+
+ If it wasn't for arrays, computer programming would have probably not existed (thats my view on how important I feel arrays are, you are delightfully welcomed to think differently, but admit it, you too have a soft corner for arrays within you!). From the most simplest questions to the most complex and non intuitive questions, arrays are almost everywhere. So it is obvious to try and learn arrays and how to deal with them. 
+ 
+ To put it simply, arrays are a list of anything, from primitive data types (numbers, characters, strings) to objects (if you are into object oriented programming) and complex data structures. Working with arrays can sometimes be hard (yeah, we all have been there when some questions on arrays just don't make any sense), but working with those questions too rely on the basics of arrays. So lets understand what are the basic operations we do with arrays (this is almost always similar for all data structures, be it linked lists, queues, stacks, trees, with some added functionality specific to the data structures). These operations are what makes up the in-built functions for arrays in many programming languages. You may ask why are we doing this then, when a simple call to those functions can do the work for us. Well, its always better to know your arsenal of weapons before heading to a fight. So lets see the weapons we need to master for facing array questions:
+ 
+ 1. Creating and initialising arrays in different ways with different types of data
+ 2. Finding element in array
+ 3. Finding index of element in array
+ 4. Finding element satifying condition
+ 5. Finding index of element satisfying condition
+ 6. Iterating over arrays in different ways (linear, jumps, conditional, back and front one after other and simultaneously)
+ 7. Inserting element in array at index of choice
+ 8. Deleting element from array at index of choice
+ 9. Updating element in array at index of choice
+ 10. Sorting arrays in different ways
+ 11. Merging arrays with other arrays
+ 12. Copying part of arrays (subarrays)
+
+This list is neccessary but not sufficient, these core exercises set the premises for any array fundamental question. However, these alone do not solve array questions. For that we have to practice mastering the use of weapons we possess (i.e. practice approaching questions logically and deducing patterns and working on that). These questions are some of the few that give insight into many of the patterns that keep recurring in array based questions:
+
+- [Minimum Lights To Activate](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/MinimumLightsToActivate.java)
+- [Find Occurence Of Each Number](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/FindOccurencesOfEachNumber.java)
+- [Longest Consecutive Subsequence](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/LongestConsecutiveSubsequence.java)
+- [Maximum Subarray](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/MaxSubArray.java)
+- [Spiral Order](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/SpiralOrder.py)
+- [Transpose Matrix](https://github.com/ElysianStorm/StrugglingCOder-DSA/blob/main/Arrays_HashMaps_Strings/TransposeMatrix.java)
+
+NOTE: These questions still deal with the basics of arrays, some of the patterns in arrays are so common that they become a topic on there own (such as Two Pointers, Binary Search, Sliding Window and more).
 </details>
