@@ -6,14 +6,10 @@
 # T:O(N), S:O(N)
 # Return if match at nodes, else recursively check and return false at mismatch
 
-class Solution(object):
-    def isSameTree(self, p, q):
-        """
-        :type p: TreeNode
-        :type q: TreeNode
-        :rtype: bool
-        """
+from Tree.TreeNode import TreeNode
 
+class IsSameTree():
+    def isSameTree(self, p: 'TreeNode', q: 'TreeNode'):
         if (p == None and q == None):
             return True
         
