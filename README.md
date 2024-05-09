@@ -24,10 +24,10 @@ Here is how I am approaching DSA:
 - Linked Lists
 - Trees
 - Queues
-- Tries                ---> I AM HERE NOW!!!
+- Tries
+- Backtracking                ---> I AM HERE NOW!!!
 
 Planned, don't know if it will remain the same
-- Backtracking
 - Heaps/Priority Queues
 - 1D DP
 - 2D DP
