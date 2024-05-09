@@ -22,12 +22,13 @@ Here is how I am approaching DSA:
 - Recursion
 - Stacks
 - Linked Lists
-- Trees      --> I AM HERE NOW!!!
+- Trees
+- Queues
+- Tries                ---> I AM HERE NOW!!!
 
 Planned, don't know if it will remain the same
-- Queues
 - Backtracking
-- Heaps/ Priority Queues
+- Heaps/Priority Queues
 - 1D DP
 - 2D DP
 - Graphs
