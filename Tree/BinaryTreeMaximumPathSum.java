@@ -1,3 +1,13 @@
+package Tree;
+
+// https://leetcode.com/problems/binary-tree-maximum-path-sum/solutions/5132823/binary-tree-maximum-path-sum-java-approach-recursive-explanation/
+
+// Medium/ Hard (Implementation)
+// Trees, Recursion
+// Global maxSum, localPathSum
+// T:O(N), S:O(N)
+// Max(maxVal, localSum) -> ans; node return -> val + Max(left, right)
+
 class BinaryTreeMaximumPathSum {    
 
     public int maxVal = Integer.MIN_VALUE;
