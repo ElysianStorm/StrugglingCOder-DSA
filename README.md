@@ -25,12 +25,12 @@ Here is how I am approaching DSA:
 - Trees
 - Queues
 - Tries
-- Backtracking                ---> I AM HERE NOW!!!
+- Backtracking
+- 1D DP
+- 2D DP                ---> I AM HERE NOW!!!
 
 Planned, don't know if it will remain the same
 - Heaps/Priority Queues
-- 1D DP
-- 2D DP
 - Graphs
 - Greedy
 - FINAL BOSSES
