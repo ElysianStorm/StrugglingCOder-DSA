@@ -4,7 +4,7 @@ public class Main {
         // Test cases
         // Add your test cases here
         // Example:
-        // int[] number = 23;
+        // int number = 23;
         // boolean result = BitManipulation.IsPowerOfTwo.isPowerOfTwo(23);
         // System.out.println(Arrays.toString(result));
 
